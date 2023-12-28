@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="name">Name</string>
+    <string name="enter_mail">Enter Mail</string>
+    <string name="submit">Submit</string>
+    <string name="mail">Mail</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="textview1">textview1</string>
+    <string name="textview2">textview2</string>
+    <string name="textview3">textview3</string>
+    <string name="checked_textview">Checked TextView</string>
+</resources>
